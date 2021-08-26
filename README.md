@@ -1,8 +1,5 @@
 # Introduccion al analisis de datos con R y R Studio
-Dirigido a investigadore y docentes del Colegio de Postgraduados
-
-
-El análisis de datos con R ha surgido como un enfoque muy importante para empresas de todo tipo, desde el mundo de las finanzas al de los videojuegos pasando por tiendas online o incluso los deportes. R permite que incluso aquellos que tienen comprensión intuitiva de los conceptos subyacentes, sin un trasfondo matemático profundo, den rienda suelta a análisis potentes y detallados de sus datos.
+Dirigido a investigadores y docentes del Colegio de Postgraduados
 
 Este curso te mostrará cómo puedes poner sus habilidades de análisis de datos en R para uso práctico, con recetas que atienden las tareas básicas y avanzadas de análisis de datos. 
 
@@ -15,7 +12,7 @@ A lo largo del curso, conoceremos los problemas comunes y los obstáculos que se
 Al final de este curso, tendrás todo el conocimiento que necesita para convertirte en un experto en análisis de datos con R, y poner sus habilidades a prueba en escenarios del mundo real.
 
 
-## [Tema 1 - Adquirir y preparar nuestros ingredientes - Los datos](https://github.com/joanby/r-course/tree/master/scripts/tema1)
+## [Tema 1 - Adquirir y preparar nuestros ingredientes - Los datos](https://github.com/gitpeser/r-course/tree/master/scripts/tema1)
 Los ingredientes de todo analista de datos son los datos. No se encuentran todos del mismo modo ni en el mismo formato, así que lo primero que nos toca es conocer donde buscarlos y qué esperar
 
 ## [Tema 2 - ¿Qué tenemos aquí? - El análisis exploratorio datos](https://github.com/joanby/r-course/tree/master/scripts/tema2)
