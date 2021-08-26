@@ -1,4 +1,4 @@
-# Introduccion al analisis de datos con R y R Studio
+# Introducción al análisis de datos con R y R Studio
 Dirigido a investigadores y docentes del Colegio de Postgraduados
 
 Este curso te mostrará cómo puedes poner sus habilidades de análisis de datos en R para uso práctico, con recetas que atienden las tareas básicas y avanzadas de análisis de datos. 
