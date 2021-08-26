@@ -32,7 +32,7 @@ El mostrar los datos bonitos y con sentido es una de las tareas principales de u
 ## [Tema 8 - ¡Creo que esto podría gustarte! - Sistemas de recomendación](https://github.com/gitpeser/Curso-de-R-y-R-Estudio-para-investigadores/tree/master/scripts/tema8)
 Vamos a ver cómo dar recomendaciones basadas en contenido, en elecciones ya hechas por otros usuario o hacer un mix de ambas en los modelos híbridos
 
-## [Tema 9 - Conexiones por doquier - Análisis de Redes Sociales](https://github.com/gitpeser/Curso-de-R-y-R-Estudio-para-investigadores/master/scripts/tema9)
+## [Tema 9 - Conexiones por doquier - Análisis de Redes Sociales](https://github.com/gitpeser/Curso-de-R-y-R-Estudio-para-investigadores/tree/master/scripts/tema9)
 Vamos a ir a un tema que está muy de moda: el análisis de redes sociales y cómo representar las relaciones en forma de grafo con RStudio
 
 ## [Tema 10 - Un data scientist vale lo que sus informes](https://github.com/gitpeser/Curso-de-R-y-R-Estudio-para-investigadores/tree/master/scripts/tema10)
