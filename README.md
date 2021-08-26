@@ -6,11 +6,7 @@ Este curso te mostrará cómo puedes poner sus habilidades de análisis de datos
 Desde la adquisición de los datos y su preparación previa para el análisis hasta las técnicas más complejas de análisis de datos, intentaremos llevar a cabo las implementaciones de cada técnica de la mejor manera posible. 
 También visualizaremos los datos utilizando los paquetes más populares de R como ggplot2 y encontraremos información oculta en los mismos. 
 Comenzando con la implementación de conceptos básicos del mundo del análisis de datos, como manejar sus datos para crear gráficos básicos, acabaremos dominaremos las técnicas de análisis de datos más avanzadas, como realizar análisis de clúster o generar informes y visualizaciones de análisis efectivas. 
-También trabajaremos con series temporales, regresión y estimación de datos, un sistema de recomendaciones o el análisis de mercados financieros o redes sociales entre otros, por tanto ¡tienes muchos campos donde aplicar todo lo que aprendas aquí en el curso!
-A lo largo del curso, conoceremos los problemas comunes y los obstáculos que se suelen encontrar al implementar cada una de las técnicas de análisis de datos en R, así como diferentes formas formas de superarlas de la manera más fácil posible.
-
-Al final de este curso, tendrás todo el conocimiento que necesita para convertirte en un experto en análisis de datos con R, y poner sus habilidades a prueba en escenarios del mundo real.
-
+También trabajaremos con series temporales, regresión y estimación de datos. A lo largo del curso, conoceremos los problemas comunes y los obstáculos que se suelen encontrar al implementar cada una de las técnicas de análisis de datos en R, así como diferentes formas formas de superarlas de la manera más fácil posible.
 
 ## [Tema 1 - Adquirir y preparar nuestros ingredientes - Los datos](https://github.com/gitpeser/Curso-de-R-y-R-Estudio-para-investigadores/tree/master/scripts/tema1)
 Los ingredientes de todo analista de datos son los datos. No se encuentran todos del mismo modo ni en el mismo formato, así que lo primero que nos toca es conocer donde buscarlos y qué esperar
